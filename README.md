@@ -1,3 +1,3 @@
-# gitdemo
+cd # gitdemo
 demo of my git repo
-author --anu
+author --anu biswas
